@@ -1,6 +1,7 @@
 {
-  "whatsNew" : "nothing",
-  "versionCode" : "10",
+  "title" : "Update available!",
+  "whatsNew" : "a lot of things",
+  "versionCode" : "11",
   "downloadUrl" : "http://google.com",
   "isSkipable" : "false"
 }
