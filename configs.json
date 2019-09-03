@@ -1,1 +1,14 @@
-{"quoda_exceeded" : "false"}
+{
+  "ad" : "http://link.tl/2dC9K",
+  "defaultAbout" : "This user hasn't set an about yet.",
+  "defaultImage" : "https://firebasestorage.googleapis.com/v0/b/sketcify.appspot.com/o/app_ico.png?alt=media&token=1c710ff3-4800-4e9e-8bfd-8f0ad1966573",
+  "defaultRank" : "Developer",
+  "discordLink" : "https://discord.gg/F4atjB4",
+  "placeHolder" : "-L_184Buv6cANFMaFEMu",
+  "popularProjectMinLike" : "3",
+  "popularProjectTime" : "1209600000",
+  "quodaExceeded" : "false",
+  "videoTutorialUrl" : "https://firebasestorage.googleapis.com/v0/b/sketcify.appspot.com/o/YouTube%20Tutorials%2Fyoutube_10.json?alt=media&token=1d370023-5e79-402e-8e39-53c8b4cc7dbb",
+  "videoTutorialUrl2" : "https://firebasestorage.googleapis.com/v0/b/sketcify.appspot.com/o/YouTube%20Tutorials%2Fyoutube_10.json?alt=media&token=1d370023-5e79-402e-8e39-53c8b4cc7dbb",
+  "webSite" : "https://sketcify.tk/"
+}
