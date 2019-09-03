@@ -1,1 +1,0 @@
-# sketcify.github.io
