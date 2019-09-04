@@ -1,7 +1,7 @@
 {
   "title" : "Update available!",
-  "whatsNew" : "a lot of things",
-  "versionCode" : "10",
+  "whatsNew" : "-> UI/UX improves\n-> Added deeplinking\n-> Added ads\n(Why did we add this:\n- Sketcify uses Firebase free plan and Firebase offers only 5 GB for free. Our storage is nearly 4 GB and in order to keep Sketcify alive, we need your help... We promise, all ad revenues will be used for Sketcify)\n-> Bug fixes\n-> Firebase optimizations\n-> Now one can report a project just once\n-> Removed competitions",
+  "versionCode" : "12",
   "downloadUrl" : "http://google.com",
   "isSkipable" : "false"
 }
